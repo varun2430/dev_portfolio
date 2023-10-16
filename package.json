@@ -9,16 +9,9 @@
     "build": "parcel build ./src/index.html --public-url ./",
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/varun2430/dev_portfolio"
-  },
   "keywords": [],
   "author": "Varun Kadkade",
   "license": "ISC",
-  "bugs": {
-    "url": "https://varun2430.github.io/dev_portfolio/issues"
-  },
   "homepage": "https://varun2430.github.io/dev_portfolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
