@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "dev_portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Varun Kadkade's dev portfolio.",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/varun2430/dev_portfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Varun Kadkade",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://varun2430.github.io/dev_portfolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://varun2430.github.io/dev_portfolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
